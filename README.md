@@ -3,13 +3,13 @@
 ## Directory:
 
 AudienceGetter/
-├─ Main.ipynb
-├─ Raw Data/
-│  ├─ advertiser1.txt
-│  ├─ advertiser2.txt
-│  ├─ advertiser3.txt
-│  └─ advertisern.txt
-└─ clean/
+- Main.ipynb
+- Raw Data/
+-- advertiser1.txt
+-- advertiser2.txt
+-- advertiser3.txt
+-- advertiser_n.txt
+- clean/
 
 
 ## Penggunaan:
