@@ -1,13 +1,16 @@
 # AudienceGetter
 
 ## Directory:
-\ Main.ipynb
-\ Raw Data
-  \ advertiser1.txt
-  \ advertiser2.txt
-  \ advertiser3.txt
-  \ advertisern.txt
-\ clean
+
+AudienceGetter/
+├─ Main.ipynb
+├─ Raw Data/
+│  ├─ advertiser1.txt
+│  ├─ advertiser2.txt
+│  ├─ advertiser3.txt
+│  └─ advertisern.txt
+└─ clean/
+
 
 ## Penggunaan:
 1. pip install pandas
